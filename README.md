@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**netletti/netletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ricardo, a software engineer based in Cape Town.
 
-Here are some ideas to get you started:
+I mostly work on fullstack applications - Angular, Typescript, FastAPI, Python, and some mobile app development using the Ionic Framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use Figma for UI design and Excalidraw when I want to stetch ideas.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Tools & Tech**
+
+* Angular, Typescript, FastAPI, Python
+* Ionic, Angular Material
+* Docker, Git
+* Firebase, Postgres
+* Google Cloud, Digital Ocean
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+A Bit About Me
+
+* I'm a tea person
+* Into anime -- One Piece is a favorite
+* Love the Star Trek series ( I'm a trekkie 🖖)
+* I like building things that are simple, useful, and easy to understand
