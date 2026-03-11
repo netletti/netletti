@@ -26,3 +26,9 @@ A Bit About Me
 * Into anime -- One Piece is a favorite
 * Love the Star Trek series ( I'm a trekkie 🖖)
 * I like building things that are simple, useful, and easy to understand
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Visit my site : https://netletti.github.io/netletti/
